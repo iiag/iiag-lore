@@ -1,0 +1,18 @@
+Item name
+  brief description
+  
+  detailed
+  ...
+  description
+  
+equip slot?
+consumable?
+
+modifiers:
+  modifier 1
+  modifier 2
+  ...
+
+effects
+  effect 1
+  ...
