@@ -11,3 +11,9 @@ Directories
  * `items` Contains information on items found in the world.
  * `books` Contains books written by inhabitants of iiag.
 
+How to Add a New Entry
+----------------------
+
+Copy the `template` file in the category's directory pertaining to the entry you want to add
+and then proceed to edit that accordingly. Sane to have a sensible subcategory structure
+via directories inside the more broad, templated categories.
