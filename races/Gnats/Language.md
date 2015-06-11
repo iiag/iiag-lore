@@ -19,7 +19,7 @@ Luckily the written language is (almost) always a direct reflection of the
 pronunciation of the word it represents, so the construction of the
 pronunciation of a word is entirely possible from its transliteration.
 
-There are 4 vowels and 10 constants for a total of 15 phonemes. Note that gnats
+There are 4 vowels and 10 constants for a total of 14 phonemes. Note that gnats
 are not humans and therefore the international phonetic alphabet does not extend
 to all gnat phonemes properly (international, not interracial). The following
 are approximations. Furthermore note that as unicode has yet to add a code point
