@@ -7,9 +7,9 @@ language in religious circles. Low Gnat is the common vernacular, and is used by
 all, even sometimes among priests. It is occasionally written for more mundane
 tasks, such as record keeping for food, troop numbers, etc. From a grammatical
 perspective Low Gnat uses primarily a subset of the grammatical constructions of
-High Gnat, with the addition of some irregular idiomatic constructions. The
-vocabulary of both has some overlap based has diverged to a noticeable degree.
-The proceeding text will describe the grammar of High Gnat and then take note of
+High Gnat, with the addition of some irregular idiomatic constructions. While their
+vocabularies have notable overlap, there is certainly also a noticable divergence between
+them. The proceeding text will describe the grammar of High Gnat and then take note of
 how it differentiates from Low Gnat.
 
 Script and Phonology
