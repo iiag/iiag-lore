@@ -36,7 +36,7 @@ for gnat script, on the transliterations are described here.
 | n | /n/ | |
 | t | /t/ | This is never aspirated, unlike in English |
 | f | /f/ | |
-| r | /ɹ/ | Does not form a sylable with proceeding letter or implicit /ɯ/, can by a sylalbic consonant. |
+| r | /ɹ/ | Does not form a sylable with proceeding letter or implicit /ɯ/, can be a sylalbic consonant. |
 | R | /ɰ/ | Sylabilizes like "r". |
 | b | /b/ | |
 | B | /b̪/ | |
