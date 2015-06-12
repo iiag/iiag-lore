@@ -1,3 +1,5 @@
+*Note this is a working draft and most of the words listed were made up on the spot with consideration to your ability to  pronounce them sanely*
+
 Introduction
 ============
 
@@ -32,7 +34,7 @@ Sentence structure
 
 All sentences contain at least a single primary verb and optionally a number of phrases that modify or specify that verb. Besides words that are considered verbs intrinsically, verbs can be formed from two adjacent nouns which are bound by a silent copula. The copula is in High Gnat written between the bound nouns as "ara", while in Low Gnat it is often written as "r" or simply left absent. Both modern variants exclude the copula from pronuciation.
 
-Gnat uses an adpositional particle system in order to demarcate the grammatical function of phrases beyond the verb of the sentence. These particles relate to a head of a higher phrase, which is called the particle's radix. When a particle precedes its radix it acts as an preposition, when it follows its radix it acts as a postposition. For example, all of the following sentences can be translated as "All gnats are mortal" (though the conveyed voicing may vary):
+Gnat uses an adpositional system in order to demarcate the grammatical function of phrases beyond the verb of the sentence. These adpositions relate to a head of a higher phrase, which is called the adposition's radix. When an adposition precedes its radix it acts as an preposition, when it follows its radix it acts as a postposition. For example, all of the following sentences can be translated as "All gnats are mortal" (though the conveyed voicing may vary):
 
  * grf-an nn-ob gnat-an ij
  * gnat-an ob-nn ij an-grf
@@ -41,8 +43,37 @@ Gnat uses an adpositional particle system in order to demarcate the grammatical 
 Note the following vocabulary:
 
  * **grf** means "mortal" or "mortality".
- * **an** a particle marking a passive actor of a verb.
+ * **an** an adposition marking a passive actor of a verb.
  * **nn** means "person", "creature" or "animate being".
- * **ob** is a particle meaning "all within" or "members of".
+ * **ob** is an adposition meaning "all within" or "members of".
  * **ij** means "to be".
  * **gnat** refers to the race itself in this context.
+
+As you may have infered, not all adpositions can have all other types of words as a radix, for example *ob* binds to nouns only, which *an* only binds to verbs.
+
+Verbs
+=====
+
+Verbs form the heart of the sentence. In the bare sense, the dictionary form, they say nothing about the tense, aspect or mood of the verb. Morphemes can be glued onto the verb in order convey these concepts. They act similarly to the adpositions described above, but do not bind to a radix. The morphemes can be attached to either side, but only one side at a time. There are occasions when attempting to convey strange voicings that they can be found on both sides of the verb, but these instances are limited to obscure literary contexts.
+
+Aspect
+------
+
+There are three moods in the Gnat, the imperfective, perfective, and partial perfective. The foremost describes an ongoing or continuous aspect with respect to tense, the second describes completed actions, and the last describes actions which have yet to be completed. When no aspect is explicitly attached to a verb, the verb is usually taken to be imperfective.
+
+Aspect is marked by the following morphemes:
+
+ * **kn** marks the imperfective.
+ * **e** marks the perfective.
+ * **ene** marks the partial perfective.
+
+Tense
+-----
+
+There are four tenses in Gnat, past, present, future, and indeterminate. The past and future are marked explicitly while the present and indeterminate are implied. When there is no aspect marker and no tense marker the verb is said to be in the indeterminate tense. When there is an aspect marker and no tense marker the verb is said to be in the present tense.
+
+Tense is marked as follows:
+
+ * *bn* marks the past tense.
+ * *bBn* marks the future tense.
+
