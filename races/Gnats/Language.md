@@ -3,6 +3,8 @@
 Introduction
 ============
 
+Gnat is a subtle language, though its meaning is often clear. Most foreign learners can pick up enough of it to get by relatively quickly, but it is rare that a foreign learner ever achieve a complete understanding the complex intricacies that lie beneath its proverbial surface. As a foreign learner, try not to be dissuaded by the apparent complexity, coarse meaning is always easy, it is refining those coarse grains of meaning in a thin dust that can be mixed with water into a slurry and placed into all various crevasses of conversation that is the much more difficult task.
+
 The modern Gnat Language is typically divided into "High" Gnat and "Low" Gnat. High Gnat is the primary literary language of the race, while Low Gnat is the primary vernacular. In more exclusive religious circles, the High Gnat can be a spoken language. Similarly, Low Gnat is sometimes written for more mundane tasks, such as record keeping for food, troop numbers, and the like. From a grammatical perspective, Low Gnat is primarily a subset of High Gnat, with the addition of some idiomatic, irregular constructions. While their vocabularies have notable overlap, there is certainly also a noticable divergence between them. The proceeding article will describe foremost the grammar of High Gnat taking note when necessary of how it differentiates from Low Gnat.
 
 Script and Phonology
@@ -77,3 +79,14 @@ Tense is marked as follows:
  * **bn** marks the past tense.
  * **bBn** marks the future tense.
 
+Voice
+-----
+
+Voicing gives emphasis to one actor over another. The contrast between passive and active actors is expressed through which adposition is used to mark the actor, but the degree of activity of actors is expressed through word position. When an active actor is found on the same side of the verb as the affixed series of morphemes denoting tense and voice, that actor is said to be the strongly active or weakly passive. When the reverse is true the actor is said to be weakly active or strongly passive.
+
+Nouns and adjectives
+====================
+
+Nouns and adjectives are not differentiated except in how they tend to be used. Words typically considered nouns are used with adpositions that give a nominal meaning are loosely considered to be nouns, and those used with adjectival adpositions are loosely considered to be adjectives. This is, however, not a binding contract. A word normally considered a noun can be used as an adjective and visa versa. As such, they are typically considered to be of the same word class.
+
+Verbs can also be used in a noun sense, in which case they often refer to the act of the verb itself, or as an adjective in which case they typically take the radix they attach to to be the active subject of themselves. This later case can lead to relatively complex and often ambiguous dependent clauses, and pragmatical atlas need often be employed.
