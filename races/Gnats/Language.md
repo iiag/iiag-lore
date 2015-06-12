@@ -1,4 +1,4 @@
-*Note this is a working draft and most of the words listed were made up on the spot with consideration to your ability to  pronounce them sanely*
+*Note this is a working draft and most of the words listed were made up on the spot without consideration to your ability to  pronounce them sanely*
 
 Introduction
 ============
