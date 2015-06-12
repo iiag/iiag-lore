@@ -74,6 +74,6 @@ There are four tenses in Gnat, past, present, future, and indeterminate. The pas
 
 Tense is marked as follows:
 
- * *bn* marks the past tense.
- * *bBn* marks the future tense.
+ * **bn** marks the past tense.
+ * **bBn** marks the future tense.
 
