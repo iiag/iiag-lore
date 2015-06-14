@@ -133,6 +133,7 @@ Lexicon
 The following is a comprehensive list of known words and affixes, in alphabetical order
 
  * **an** an adposition marking a passive actor of a verb.
+ * **ana** an adposition marking an active actor of a verb.
  * **ara** acts as a copula between two nouns. Forms a verb referring to this relationship. Not pronounced, High Gnat writing only.
  * **ab** used with *ba* marks the cause of a cause and effect relationship.
  * **i** marks the perfective.
@@ -141,16 +142,19 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **iost** 3rd person pronoun.
  * **ij** means "to be". Usually used with passive actors.
  * **ini** marks the partial perfective.
+ * **oo** marks the destination or result of an action. Often used similarly to the object of verb in English.
  * **ob** is an adposition meaning "all within" or "members of".
  * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
  * **gost** refers to a group of Gnats, e.g. a tribe.
  * **gnat** refers to the race itself, to the language, or to a member of the race.
  * **gnot** refers to a professional Gnat warrior.
  * **grf** means "mortal" or "mortality".
+ * **jabj** means a "meeting" or "gathering".
  * **fibr** refers to a low level Gnat priest.
  * **fBR** refers to a high level Gnat priest, similar to a bishop.
  * **fo** combines clauses as "and" does.
  * **nn** means "person", "creature" or "animate being". Used in relation with a group of similarly describable creatures. See also *tnit*.
+ * **kft** to go to, or to come to.
  * **kn** marks the imperfective.
  * **tios** person near the speaker.
  * **tiot** person near the listener.
@@ -158,6 +162,9 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **tRo** is a question word meaning "who".
  * **tnit** means "someone" or "person", used when referring to an individual when the group is irrelevant. See also *nn*.
  * **r** see *ara*. Not pronounced, Low Gnat writing only.
+ * **ri** used to mark an adjectival of its radix.
+ * **ritr** means "previous". Can be used as an adjective or noun.
+ * **rtir* means "next". Can be used as an adjective or noun.
  * **Ro** is an affix indicating the speaker is inquiring as to the more specific nature of the affixee. Does not affix to *tnit* or *Bnit*, see *tRo* and *BRo*.
  * **ba** used with *ab* marks the effect of a cause and effect relationship.
  * **bn** marks the past tense.
