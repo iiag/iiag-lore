@@ -12,7 +12,7 @@ Script and Phonology
 
 Luckily, the written language is almost always a direct reflection of the pronunciation of the word it written, so pronouncing written text is relatively easy.
 
-There are 4 vowels and 10 constants for a total of 14 phonemes in Gnat. Note that gnats are not humans and therefore the international phonetic alphabet does not extend to all gnat phonemes properly (international, not interracial), so the following are approximations. Furthermore note that as unicode has yet to add a code block for gnat script, only the transliterations are described here.
+There are 4 vowels and 12 constants for a total of 16 phonemes in Gnat. Note that gnats are not humans and therefore the international phonetic alphabet does not extend to all gnat phonemes properly (international, not interracial), so the following are approximations. Furthermore note that as unicode has yet to add a code block for gnat script, only the transliterations are described here.
 
 |Transliteration | IPA Symbol | Notes |
 |----------------|------------|-------|
@@ -22,14 +22,16 @@ There are 4 vowels and 10 constants for a total of 14 phonemes in Gnat. Note tha
 | o | /ʌ/ | |
 | g | /g/ | When found at the end of a word, pronounced allophonically as /k/. |
 | G | /ɣ/ | |
-| n | /n/ | |
-| t | /t/ | This is never aspirated, unlike in English |
+| j | /ʒ/ | |
 | f | /f/ | |
+| n | /n/ | |
+| k | /k/ | |
+| t | /t/ | This is never aspirated, unlike in English |
 | r | /ɹ/ | Does not form a sylable with proceeding letter or implicit /ɯ/, can be a sylalbic consonant. |
 | R | /ɰ/ | Sylabilizes like "r". |
 | b | /b/ | |
 | B | /b̪/ | |
-| j | /ʒ/ | |
+| s | /s/ | |
 
 Sentence structure
 ==================
@@ -51,7 +53,7 @@ Note the following vocabulary:
  * **ij** means "to be".
  * **gnat** refers to the race itself in this context.
 
-As you may have infered, not all adpositions can have all other types of words as a radix, for example *ob* binds to nouns only, which *an* only binds to verbs.
+As you may have inferred, not all adpositions can have all other types of words as a radix, for example *ob* binds to nouns only, which *an* only binds to verbs.
 
 Verbs
 =====
@@ -66,8 +68,8 @@ There are three moods in the Gnat, the imperfective, perfective, and partial per
 Aspect is marked by the following morphemes:
 
  * **kn** marks the imperfective.
- * **e** marks the perfective.
- * **ene** marks the partial perfective.
+ * **i** marks the perfective.
+ * **ini** marks the partial perfective.
 
 Tense
 -----
@@ -90,3 +92,79 @@ Nouns and adjectives
 Nouns and adjectives are not differentiated except in how they tend to be used. Words typically considered nouns are used with adpositions that give a nominal meaning are loosely considered to be nouns, and those used with adjectival adpositions are loosely considered to be adjectives. This is, however, not a binding contract. A word normally considered a noun can be used as an adjective and visa versa. As such, they are typically considered to be of the same word class.
 
 Verbs can also be used in a noun sense, in which case they often refer to the act of the verb itself, or as an adjective in which case they typically take the radix they attach to to be the active subject of themselves. This later case can lead to relatively complex and often ambiguous dependent clauses, and pragmatical atlas need often be employed.
+
+Note that Gnat does not have grammatical number when referring to nouns, unlike English.
+
+Demonstratives and pronouns
+===========================
+
+There are demonstratives and pronouns that reference the 1st, 2nd, and 3rd person, but there is, like nouns, no differentiation because of number. Pronouns act like a word in in the noun and adjective class. Demonstratives refer to something near a person being referenced in the 1st, 2nd, or 3rd person. The following chart lists pronouns and demonstratives:
+
+|             | 1st person | 2nd person | 3rd person |
+|-------------|------------|------------|------------|
+| Pronoun     | ios        | iot        | iost       |
+| Thing near  | Bos        | Bot        | Bost       |
+| Person near | tios       | tiot       | tiost      |
+
+Conjunctions
+============
+
+Conjunctions work by attaching conjoining morphemes to the words being joined. The conjunction is attached to both words and appears on the inside of the words, so the left word has a suffix and the right word has a prefix. Some constructions do not attach the same affix to both the left and right word, and sometimes a conjoining morpheme can be used with different conjoining morphemes.
+
+A list of conjunctions follows, unless noted, presume they are used with themselves:
+
+ * **fo** combines clauses as "and" does.
+ * **ab** used with *ba* marks the cause of a cause and effect relationship.
+ * **ba** used with *ab* marks the effect of a cause and effect relationship.
+
+Questions
+=========
+
+Questions are formed by attaching question affixes to a word. Question affixes are as follows:
+
+ * **Ro** indicates an inquiry as to the specific nature of the affixee.
+ * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
+
+Note that *Ro* does not attached to the word *tnit* or the word *Bnit*, instead the words *tRo* and *BRo*. These words are treated as an unaffixed word, not as if *Ro* is attached to *t* or *B*.
+
+Lexicon
+=======
+
+The following is a comprehensive list of known words and affixes, in alphabetical order
+
+ * **an** an adposition marking a passive actor of a verb.
+ * **ara** acts as a copula between two nouns. Forms a verb referring to this relationship. Not pronounced, High Gnat writing only.
+ * **ab** used with *ba* marks the cause of a cause and effect relationship.
+ * **i** marks the perfective.
+ * **ios** 1st person pronoun.
+ * **iot** 2nd person pronoun.
+ * **iost** 3rd person pronoun.
+ * **ij** means "to be". Usually used with passive actors.
+ * **ini** marks the partial perfective.
+ * **ob** is an adposition meaning "all within" or "members of".
+ * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
+ * **gost** refers to a group of Gnats, e.g. a tribe.
+ * **gnat** refers to the race itself, to the language, or to a member of the race.
+ * **gnot** refers to a professional Gnat warrior.
+ * **grf** means "mortal" or "mortality".
+ * **fibr** refers to a low level Gnat priest.
+ * **fBR** refers to a high level Gnat priest, similar to a bishop.
+ * **fo** combines clauses as "and" does.
+ * **nn** means "person", "creature" or "animate being". Used in relation with a group of similarly describable creatures. See also *tnit*.
+ * **kn** marks the imperfective.
+ * **tios** person near the speaker.
+ * **tiot** person near the listener.
+ * **tiost** person near neither the speaker or the listener.
+ * **tRo** is a question word meaning "who".
+ * **tnit** means "someone" or "person", used when referring to an individual when the group is irrelevant. See also *nn*.
+ * **r** see *ara*. Not pronounced, Low Gnat writing only.
+ * **Ro** is an affix indicating the speaker is inquiring as to the more specific nature of the affixee. Does not affix to *tnit* or *Bnit*, see *tRo* and *BRo*.
+ * **ba** used with *ab* marks the effect of a cause and effect relationship.
+ * **bn** marks the past tense.
+ * **bBn** marks the future tense.
+ * **Bos** thing near the speaker.
+ * **Bot** thing near the listener.
+ * **Bost** thing near the neither the speaker nor the listener.
+ * **BRo** is a question word meaning what.
+ * **Bnit** means "something", "thing", or adjectively, "having the quality of existing".
+
