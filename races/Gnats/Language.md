@@ -164,7 +164,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **r** see *ara*. Not pronounced, Low Gnat writing only.
  * **ri** used to mark an adjectival of its radix.
  * **ritr** means "previous". Can be used as an adjective or noun.
- * **rtir* means "next". Can be used as an adjective or noun.
+ * **rtir** means "next". Can be used as an adjective or noun.
  * **Ro** is an affix indicating the speaker is inquiring as to the more specific nature of the affixee. Does not affix to *tnit* or *Bnit*, see *tRo* and *BRo*.
  * **ba** used with *ab* marks the effect of a cause and effect relationship.
  * **bn** marks the past tense.
