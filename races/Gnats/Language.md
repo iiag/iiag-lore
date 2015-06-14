@@ -58,12 +58,12 @@ As you may have inferred, not all adpositions can have all other types of words 
 Verbs
 =====
 
-Verbs form the heart of the sentence. In the bare sense, the dictionary form, they say nothing about the tense, aspect or mood of the verb. Morphemes can be glued onto the verb in order convey these concepts. They act similarly to the adpositions described above, but do not bind to a radix. The morphemes can be attached to either side, but only one side at a time. There are occasions when attempting to convey strange voicings that they can be found on both sides of the verb, but these instances are limited to obscure literary contexts.
+Verbs form the heart of the sentence. In the bare sense, the dictionary form, nothing is said about the tense, aspect or mood of the verb. Morphemes can be glued onto the verb in order convey these concepts. They act similarly to the adpositions described above, but do not bind to a radix. The morphemes can be attached to either side, but only one side at a time, though there are occasions in attempting to convey strange voicings where they can be found on both sides of the verb, but this is limited to rather obscure literary contexts.
 
 Aspect
 ------
 
-There are three moods in the Gnat, the imperfective, perfective, and partial perfective. The foremost describes an ongoing or continuous aspect with respect to tense, the second describes completed actions, and the last describes actions which have yet to be completed. When no aspect is explicitly attached to a verb, the verb is usually taken to be imperfective.
+There are four aspects in the Gnat, the imperfective, perfective, partial perfective, and indeterminate. The foremost describes an ongoing or continuous aspect with respect to tense, the second describes completed actions, and the third describes actions which have yet to be completed. These first three are described by affixes. When no aspect is explicitly attached to a verb the aspect is said to be  indeterminate, meaning it is implied from the usage of the verb.
 
 Aspect is marked by the following morphemes:
 
@@ -84,21 +84,21 @@ Tense is marked as follows:
 Voice
 -----
 
-Voicing gives emphasis to one actor over another. The contrast between passive and active actors is expressed through which adposition is used to mark the actor, but the degree of activity of actors is expressed through word position. When an active actor is found on the same side of the verb as the affixed series of morphemes denoting tense and voice, that actor is said to be the strongly active or weakly passive. When the reverse is true the actor is said to be weakly active or strongly passive.
+Voicing gives emphasis to one actor over another. The contrast between passive and active actors is expressed through which adposition is used to mark the actor, but the degree of activity of actors is expressed through word position. When an active actor is found on the same side of the verb as the affixed series of morphemes denoting tense and aspect, that actor is said to be strongly active or weakly passive. When the reverse is true the actor is said to be weakly active or strongly passive.
 
 Nouns and adjectives
 ====================
 
-Nouns and adjectives are not differentiated except in how they tend to be used. Words typically considered nouns are used with adpositions that give a nominal meaning are loosely considered to be nouns, and those used with adjectival adpositions are loosely considered to be adjectives. This is, however, not a binding contract. A word normally considered a noun can be used as an adjective and visa versa. As such, they are typically considered to be of the same word class.
+Nouns and adjectives are not differentiated except in how they tend to be used. Words typically used with adpositions that give a nominal meaning are loosely considered to be nouns, and those used with adjectival adpositions are loosely considered to be adjectives. This is, however, not a binding contract. A word normally considered a noun can be used as an adjective and visa versa. As such, they are typically considered to be of the same word class.
 
-Verbs can also be used in a noun sense, in which case they often refer to the act of the verb itself, or as an adjective in which case they typically take the radix they attach to to be the active subject of themselves. This later case can lead to relatively complex and often ambiguous dependent clauses, and pragmatical atlas need often be employed.
+Verbs can also be used in a noun sense, in which case they often refer to the act itself, or they can be used in an adjectival sense, in which case they take the radix they attach to to be their active subject. The latter case here can lead to complex and often ambiguous dependent clauses, and a pragmatical atlas often need be employed.
 
 Note that Gnat does not have grammatical number when referring to nouns, unlike English.
 
 Demonstratives and pronouns
 ===========================
 
-There are demonstratives and pronouns that reference the 1st, 2nd, and 3rd person, but there is, like nouns, no differentiation because of number. Pronouns act like a word in in the noun and adjective class. Demonstratives refer to something near a person being referenced in the 1st, 2nd, or 3rd person. The following chart lists pronouns and demonstratives:
+There are demonstratives and pronouns that take the 1st, 2nd, and 3rd person, but they have, like nouns, no differentiation because of number. Pronouns act like a word of the noun and adjective class. Demonstratives are used to refer to something near a person being referenced in the 1st, 2nd, or 3rd person. The following chart lists pronouns and demonstratives:
 
 |             | 1st person | 2nd person | 3rd person |
 |-------------|------------|------------|------------|
@@ -109,7 +109,7 @@ There are demonstratives and pronouns that reference the 1st, 2nd, and 3rd perso
 Conjunctions
 ============
 
-Conjunctions work by attaching conjoining morphemes to the words being joined. The conjunction is attached to both words and appears on the inside of the words, so the left word has a suffix and the right word has a prefix. Some constructions do not attach the same affix to both the left and right word, and sometimes a conjoining morpheme can be used with different conjoining morphemes.
+Conjunctions work by attaching conjoining morphemes to the words being joined. Conjunctions must be attached to both words and appear on the inside of the conjoined words such that the left word has a suffix and the right word has a prefix. While many do, some constructions do not attach the same affix to both the left and right word, and sometimes a conjoining morpheme can be used with different conjoining morphemes.
 
 A list of conjunctions follows, unless noted, presume they are used with themselves:
 
@@ -123,7 +123,7 @@ Questions
 Questions are formed by attaching question affixes to a word. Question affixes are as follows:
 
  * **Ro** indicates an inquiry as to the specific nature of the affixee.
- * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
+ * **oti** indicates an inquiry as to the truth of the affixee. While commonly used with verbs to form yes or no questions, it can also be used with nouns or adjectives to assert the validity of that noun in the given usage.
 
 Note that *Ro* does not attached to the word *tnit* or the word *Bnit*, instead the words *tRo* and *BRo*. These words are treated as an unaffixed word, not as if *Ro* is attached to *t* or *B*.
 
