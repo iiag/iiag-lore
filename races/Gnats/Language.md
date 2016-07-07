@@ -178,6 +178,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **tg** is an agglutinative morpheme meaning "great", "very", or "big". It is used as a suffix.
  * **tRo** is a question word meaning "who".
  * **tnit** means "someone" or "person", used when referring to an individual when the group is irrelevant. See also *nn*.
+ * **tsorg** refers to a hard-tack like bread given to gnots on long expeditions.
  * **r** see *ara*. Not pronounced, Low Gnat writing only.
  * **ri** used to mark an adjectival of its radix.
  * **ritr** means "previous". Can be used as an adjective or noun.
