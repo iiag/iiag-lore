@@ -10,7 +10,7 @@ The modern Gnat Language is typically divided into "High" Gnat and "Low" Gnat. H
 Script and Phonology
 ====================
 
-Luckily, the written language is almost always a direct reflection of the pronunciation of the word it written, so pronouncing written text is relatively easy.
+Luckily, the written language is almost always a direct reflection of the pronunciation of the spoken language, so pronouncing written text is relatively easy.
 
 There are 4 vowels and 12 constants for a total of 16 phonemes in Gnat. Note that gnats are not humans and therefore the international phonetic alphabet does not extend to all gnat phonemes properly (international, not interracial), so the following are approximations. Furthermore note that as unicode has yet to add a code block for gnat script, only the transliterations are described here.
 
