@@ -16,7 +16,7 @@ There are 4 vowels and 12 constants for a total of 16 phonemes in Gnat. Note tha
 
 |Transliteration | IPA Symbol | Notes |
 |----------------|------------|-------|
-|  | /ɯ/ | Not written, found between adjacent consonants and before consonants with no following vowel (which could be this vowel). Often very short. For example: "g" would be pronounced /ɯg/, "gg" /gɯg/, and "grg" /ɯgɹɯg/. |
+|  | /ɯ/ | Not written, found between adjacent consonants and before consonants with no following vowel (which could be this vowel). Often very short. For example: "g" would be pronounced /ɯg/, "gg" /gɯg/, "ggg" /gɯgɯg/, and "grg" /ɯgɹɯg/. |
 | a | /a/ | |
 | i | /ɪ/ | |
 | o | /ʌ/ | |
