@@ -95,6 +95,16 @@ Verbs can also be used in a noun sense, in which case they often refer to the ac
 
 Note that Gnat does not have grammatical number when referring to nouns, unlike English.
 
+Agglutinativity
+---------------
+
+Some morphemes may be appended to words to change the meaning of the word. Unlike the affixes described in the *Sentence Structure* section, these morphemes are not syntactical, meaning they do not effect the meaning of the sentence. They effect the meaning of the word they are attached to alone. Whether they are prefixed or suffixed to their head is dependent on the morpheme. When written, they are written without a dividing dash unlike the aforementioned affixes. However, the pronunciation of the morphemes remain disjoint, though there is no pause between the morphemes. For example:
+
+ * "gt" (small) is pronounced /gɯt/.
+ * "sorg" (bread) is pronounced /soɹɯg/.
+ * "gtsorg" (little bread) formed agglutinatively is pronounced /gɯtsoɹɯg/.
+ * "tsorg" (hard tack given to gnots), a word in its own right, is pronounced /tɯsoɹɯg/.
+
 Demonstratives and pronouns
 ===========================
 
@@ -150,6 +160,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **gjg** means "wise".
  * **gnat** refers to the race itself, to the language, or to a member of the race.
  * **gnot** refers to a professional Gnat warrior.
+ * **gt** is an agglutinative morpheme meaning "little", "not very", or "small". It is used as a prefix.
  * **grf** means "mortal" or "mortality".
  * **ji** means "to not be". Usually used with passive actors.
  * **jabj** means a "meeting" or "gathering".
@@ -164,6 +175,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **tios** person near the speaker.
  * **tiot** person near the listener.
  * **tiost** person near neither the speaker or the listener.
+ * **tg** is an agglutinative morpheme meaning "great", "very", or "big". It is used as a suffix.
  * **tRo** is a question word meaning "who".
  * **tnit** means "someone" or "person", used when referring to an individual when the group is irrelevant. See also *nn*.
  * **r** see *ara*. Not pronounced, Low Gnat writing only.
@@ -172,6 +184,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **rtir** means "next". Can be used as an adjective or noun.
  * **Ro** is an affix indicating the speaker is inquiring as to the more specific nature of the affixee. Does not affix to *tnit* or *Bnit*, see *tRo* and *BRo*.
  * **ba** used with *ab* marks the effect of a cause and effect relationship.
+ * **bi** means "to unmake" or "to destroy". It is a negation of "ib" and behaves similarly. It is used as a suffix.
  * **bn** marks the past tense.
  * **bBn** marks the future tense.
  * **Bos** thing near the speaker.
@@ -179,5 +192,6 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **Bost** thing near the neither the speaker nor the listener.
  * **BRo** is a question word meaning what.
  * **Bnit** means "something", "thing", or adjectively, "having the quality of existing".
+ * **sorg** means "bread".
  * **sB** means "to say".
 
