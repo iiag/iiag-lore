@@ -150,6 +150,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **gnot** refers to a professional Gnat warrior.
  * **grf** means "mortal" or "mortality".
  * **jabj** means a "meeting" or "gathering".
+ * **fij** means "understanding" or "knowledge in a nominal sense, or "to understand" or "to know" as a verb.
  * **fibr** refers to a low level Gnat priest.
  * **fBR** refers to a high level Gnat priest, similar to a bishop.
  * **fo** combines clauses as "and" does.
