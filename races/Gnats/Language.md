@@ -16,7 +16,7 @@ There are 4 vowels and 12 constants for a total of 16 phonemes in Gnat. Note tha
 
 |Transliteration | IPA Symbol | Notes |
 |----------------|------------|-------|
-|  | /ɯ/ | Not written, found between adjacent consonants and before consonants with no following vowel. Often very short. |
+|  | /ɯ/ | Not written, found between adjacent consonants and before consonants with no following vowel (which could be this vowel). Often very short. |
 | a | /a/ | |
 | i | /ɪ/ | |
 | o | /ʌ/ | |
@@ -156,6 +156,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **fibr** refers to a low level Gnat priest.
  * **fBR** refers to a high level Gnat priest, similar to a bishop.
  * **fo** combines clauses as "and" does.
+ * **n** is an affix meaning "having the property of". It is the simplest way to use a vowel.
  * **nn** means "person", "creature" or "animate being". Used in relation with a group of similarly describable creatures. See also *tnit*.
  * **kft** to go to, or to come to.
  * **kn** marks the imperfective.
