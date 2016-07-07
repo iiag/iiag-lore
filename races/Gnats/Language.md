@@ -151,6 +151,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **gnat** refers to the race itself, to the language, or to a member of the race.
  * **gnot** refers to a professional Gnat warrior.
  * **grf** means "mortal" or "mortality".
+ * **ji** means "to not be". Usually used with passive actors.
  * **jabj** means a "meeting" or "gathering".
  * **fij** means "understanding" or "knowledge" in a nominal sense, or "to understand" or "to know" as a verb.
  * **fibr** refers to a low level Gnat priest.
