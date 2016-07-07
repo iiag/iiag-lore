@@ -142,6 +142,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **iost** 3rd person pronoun.
  * **ij** means "to be". Usually used with passive actors.
  * **ini** marks the partial perfective.
+ * **ib** means "to do". Can be used as agglutinatively as a suffix to make a noun or adjective a verb loosely imparting the meaning "to do X" or "to make X".
  * **oo** marks the destination or result of an action. Often used similarly to the object of verb in English.
  * **ob** is an adposition meaning "all within" or "members of".
  * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
@@ -150,7 +151,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **gnot** refers to a professional Gnat warrior.
  * **grf** means "mortal" or "mortality".
  * **jabj** means a "meeting" or "gathering".
- * **fij** means "understanding" or "knowledge in a nominal sense, or "to understand" or "to know" as a verb.
+ * **fij** means "understanding" or "knowledge" in a nominal sense, or "to understand" or "to know" as a verb.
  * **fibr** refers to a low level Gnat priest.
  * **fBR** refers to a high level Gnat priest, similar to a bishop.
  * **fo** combines clauses as "and" does.
