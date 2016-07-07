@@ -147,6 +147,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **ob** is an adposition meaning "all within" or "members of".
  * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
  * **gost** refers to a group of Gnats, e.g. a tribe.
+ * **gjg** means "wise".
  * **gnat** refers to the race itself, to the language, or to a member of the race.
  * **gnot** refers to a professional Gnat warrior.
  * **grf** means "mortal" or "mortality".
@@ -176,4 +177,5 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **Bost** thing near the neither the speaker nor the listener.
  * **BRo** is a question word meaning what.
  * **Bnit** means "something", "thing", or adjectively, "having the quality of existing".
+ * **sB** means "to say".
 
