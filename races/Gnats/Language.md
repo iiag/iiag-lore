@@ -58,14 +58,14 @@ As you may have inferred, not all adpositions can have all other types of words 
 Verbs
 =====
 
-Verbs form the heart of the sentence. In the bare sense, the dictionary form, nothing is said about the tense, aspect or mood of the verb. Morphemes can be glued onto the verb in order convey these concepts. They act similarly to the adpositions described above, but do not bind to a radix. The morphemes can be attached to either side, but only one side at a time, though there are occasions in attempting to convey strange voicings where they can be found on both sides of the verb, but this is limited to rather obscure literary contexts.
+Verbs form the heart of the sentence. In the bare sense, the dictionary form, nothing is said about the tense, aspect or mood of the verb. Case markers can be glued onto the verb in order convey these concepts. They act similarly to the adpositions described above, but do not bind to a radix. Case markers can be attached to either side, but only one side at a time, though there are occasions in attempting to convey strange voicings where they can be found on both sides of the verb, but this is limited to rather obscure literary contexts.
 
 Aspect
 ------
 
 There are four aspects in the Gnat, the imperfective, perfective, partial perfective, and indeterminate. The foremost describes an ongoing or continuous aspect with respect to tense, the second describes completed actions, and the third describes actions which have yet to be completed. These first three are described by affixes. When no aspect is explicitly attached to a verb the aspect is said to be  indeterminate, meaning it is implied from the usage of the verb.
 
-Aspect is marked by the following morphemes:
+Aspect is marked as follows:
 
  * **kn** marks the imperfective.
  * **i** marks the perfective.
@@ -195,4 +195,3 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **Bnit** means "something", "thing", or adjectively, "having the quality of existing".
  * **sorg** means "bread".
  * **sB** means "to say".
-
