@@ -95,10 +95,10 @@ Verbs can also be used in a noun sense, in which case they often refer to the ac
 
 Note that Gnat does not have grammatical number when referring to nouns, unlike English.
 
-Agglutinativity
----------------
+Markers
+-------
 
-Some morphemes may be appended to words to change the meaning of the word. Unlike the affixes described in the *Sentence Structure* section, these morphemes are not syntactical, meaning they do not effect the meaning of the sentence. They effect the meaning of the word they are attached to alone. Whether they are prefixed or suffixed to their head is dependent on the morpheme. When written, they are written without a dividing dash unlike the aforementioned affixes. However, the pronunciation of the morphemes remain disjoint, though there is no pause between the morphemes. For example:
+Nouns and adjectives can have markers appended to them to change their meaning (Note that for the purpose of simplicity, these are referred to as "noun markers", even though they can be applied to adjectives as well). Like the case markers for verbs, these effect the noun itself, they do not attach to a radix. Whether these markers are attached as a prefix or suffix is dependent on the marker. Unlike case markers or syntactical adpositions, these are not separated from their head in writing through use of a dash, by are directly attached. They still are, however, pronounced as if they were detatched, though there is no pause between the syllables.
 
  * "gt" (small) is pronounced /gɯt/.
  * "sorg" (bread) is pronounced /soɹɯg/.
@@ -152,7 +152,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **iost** 3rd person pronoun.
  * **ij** means "to be". Usually used with passive actors.
  * **ini** marks the partial perfective.
- * **ib** means "to do". Can be used as agglutinatively as a suffix to make a noun or adjective a verb loosely imparting the meaning "to do X" or "to make X".
+ * **ib** means "to do". Can be used normally as a verb, or as a suffixed noun marker that loosely imparts the meaning "to do X" or "to make X".
  * **oo** marks the destination or result of an action. Often used similarly to the object of verb in English.
  * **ob** is an adposition meaning "all within" or "members of".
  * **oti** indicates an inquiry as to the truth of the affixee. Most commonly found used with verbs to form yes or no questions, but can also be used with nouns to assert the validity of that noun in the given usage.
@@ -160,7 +160,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **gjg** means "wise".
  * **gnat** refers to the race itself, to the language, or to a member of the race.
  * **gnot** refers to a professional Gnat warrior.
- * **gt** is an agglutinative morpheme meaning "little", "not very", or "small". It is used as a prefix.
+ * **gt** is an prefixed noun marker meaning "little", "not very", or "small".
  * **grf** means "mortal" or "mortality".
  * **ji** means "to not be". Usually used with passive actors.
  * **jabj** means a "meeting" or "gathering".
@@ -175,7 +175,7 @@ The following is a comprehensive list of known words and affixes, in alphabetica
  * **tios** person near the speaker.
  * **tiot** person near the listener.
  * **tiost** person near neither the speaker or the listener.
- * **tg** is an agglutinative morpheme meaning "great", "very", or "big". It is used as a suffix.
+ * **tg** is an suffixed noun marker meaning "great", "very", or "big".
  * **tRo** is a question word meaning "who".
  * **tnit** means "someone" or "person", used when referring to an individual when the group is irrelevant. See also *nn*.
  * **tsorg** refers to a hard-tack like bread given to gnots on long expeditions.
